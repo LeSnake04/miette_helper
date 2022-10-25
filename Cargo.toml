@@ -5,6 +5,8 @@ edition = "2021"
 authors = ["LeSnake <dev.lesnake@posteo.de>"]
 description = "Crate providing helper macros for miette"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/LeSnake04/miette_helper"
+categories = ["error", "macros", "miette"]
 publish = true
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
